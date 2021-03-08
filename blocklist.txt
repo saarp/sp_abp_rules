@@ -1,0 +1,4 @@
+![AdBlock Block Rules]
+
+||youtube.co*
+||netflix.com
