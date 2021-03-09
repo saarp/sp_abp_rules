@@ -1,4 +1,7 @@
-![AdBlock Block Rules]
+[AdBlock Block Rules]
+! Version: 20210308000000
+! Title: SP's ABP filters
+! Homepage: https://github.com/saarp/sp_abp_rules/
 
 ||youtube.co*
 ||netflix.com
